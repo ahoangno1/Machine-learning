@@ -2,3 +2,6 @@ link sách về machine learning
 1.https://drive.google.com/file/d/1OAcDZQ-YUyseZAbkgiqIqMSqe0ihB78o/view?fbclid=IwY2xjawJt3rxleHRuA2FlbQIxMAABHtEbuqx02UUBXAyDcA16_WlnHUNXDexiwDp3UK53CBe1sBQ6CLXJvjCKi-ET_aem_i7HFxNfJpeKOMLulysT3dg&pli=1
 2.https://drive.google.com/file/d/1zxfXMORxzDmtF8zltJC97VRHg-nMG6Kp/view?fbclid=IwY2xjawJt3r5leHRuA2FlbQIxMAABHtpJQ0IidvVm7oQyqr-xGvYymT7M_U20d3JIeN80S3psZsOAbtPOvBiGyDSV_aem_W6lYFblbnQDKuUslg82oMw
 3.[Uploading Machinelearningyearning-Vi.pdf…]()
+
+4.https://mlsysbook.ai/Machine-Learning-Systems.pdf?fbclid=IwY2xjawJvaOpleHRuA2FlbQIxMAABHtsQDFU-8oLwfMlL6PV0cKKWuJTK328G0MRbGBRjnGgEYDaZqMTuxzzMrYlL_aem_2DPHUXXrler23LIG5SXulA
+sách 1600 trang về machine learning mới nhất
